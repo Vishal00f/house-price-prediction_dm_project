@@ -11,12 +11,3 @@ Run the following command in terminal to install the required packages.
 ## Usage
 The notebook includes all the markdowns which explain the process. 
 
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## Authors
-This repo is maintained by Rohan Singh Rajput(mailto: rohan_rajput2804@knights.ucf.edu) and Rohan Vardhan (mailto: rohanvar12@gmail.com)
